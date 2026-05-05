@@ -1,0 +1,8 @@
+langchain
+langchain_core
+langgraph
+dotenv
+langchain-groq
+langchain-community
+faiss-cpu
+sentence-transformers
